@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("333333333");
         System.out.println("hot-fix");
         System.out.println("master的冲突 合并test");
+        System.out.println("hot fix 的冲突合并test");
     }
 }
